@@ -1,3 +1,19 @@
+## A short course on machine learning and Gaussian processes
+
+### Schedule
+December 4, 12:00-18:00: Crash course, module 1
+December 6, 12:00-18:00: Crash course, module 2
+
+
+### Syllabus
+#### Crash course
+
+**Module 1** will cover basic machine learning: the most important concepts and the needed linear algebra.
+
+**Module 2** will cover Gaussian processes basics and will end with a fully implemented Gaussian process.
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kstensbo/moe-ml/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
